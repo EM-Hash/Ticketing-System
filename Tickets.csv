@@ -1,0 +1,7 @@
+TicketID, Summary, Status, Priority, Submitter, Assigned, Watching
+1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones
+2,Oh ghosh,Ghost,Supernatural,Me,You,Everyone
+3,Cat,Feline,Clawly,Me,You,Cats
+4,Kot,Dog,Highspeed Wagging,Spots,Rufus,Meowserly
+5,Homey,Bro,Bruh,Stad,Tad,Pup
+
